@@ -2,3 +2,6 @@
 	path = ignite-challenges/ignite-concepts-ch01
 	url = git@github.com:luizwhite/ignite-reactjs-concepts-ch01.git
 	branch = main
+[submodule "ignite-projects/01-github-explorer"]
+	path = ignite-projects/01-github-explorer
+	url = git@github.com:luizwhite/ignite-01-github-explorer.git
