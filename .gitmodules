@@ -1,3 +1,4 @@
 [submodule "ignite-challenges/ignite-concepts-ch01"]
 	path = ignite-challenges/ignite-concepts-ch01
 	url = git@github.com:luizwhite/ignite-reactjs-concepts-ch01.git
+	branch = main
