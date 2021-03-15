@@ -8,3 +8,4 @@
 [submodule "ignite-challenges/ignite-componentzn-ch02"]
 	path = ignite-challenges/ignite-componentzn-ch02
 	url = git@github.com:luizwhite/ignite-componentization-ch02.git
+	branch = main
