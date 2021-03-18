@@ -1,11 +1,11 @@
-[submodule "ignite-challenges/ignite-concepts-ch01"]
-	path = ignite-challenges/ignite-concepts-ch01
-	url = git@github.com:luizwhite/ignite-reactjs-concepts-ch01.git
-	branch = main
 [submodule "ignite-projects/01-github-explorer"]
 	path = ignite-projects/01-github-explorer
 	url = git@github.com:luizwhite/ignite-01-github-explorer.git
-[submodule "ignite-challenges/ignite-componentzn-ch02"]
-	path = ignite-challenges/ignite-componentzn-ch02
+[submodule "ignite-challenges/ignite-ch02-componentzn"]
+	path = ignite-challenges/ignite-ch02-componentzn
 	url = git@github.com:luizwhite/ignite-componentization-ch02.git
+	branch = main
+[submodule "ignite-challenges/ignite-ch01-concepts"]
+	path = ignite-challenges/ignite-ch01-concepts
+	url = git@github.com:luizwhite/ignite-reactjs-concepts-ch01.git
 	branch = main
