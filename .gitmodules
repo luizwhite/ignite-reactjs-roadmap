@@ -9,3 +9,7 @@
 	path = ignite-challenges/ignite-ch01-concepts
 	url = git@github.com:luizwhite/ignite-reactjs-concepts-ch01.git
 	branch = main
+[submodule "ignite-challenges/ignite-ch03-customhook"]
+	path = ignite-challenges/ignite-ch03-customhook
+	url = git@github.com:luizwhite/ignite-customhook-ch03.git
+	branch = master
