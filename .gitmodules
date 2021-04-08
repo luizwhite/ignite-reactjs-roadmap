@@ -20,3 +20,7 @@
 	path = ignite-projects/02-dtmoney
 	url = git@github.com:luizwhite/ignite-dtmoney.git
 	branch = main
+[submodule "ignite-projects/03-ignews"]
+	path = ignite-projects/03-ignews
+	url = git@github.com:luizwhite/ignite-ignews.git
+	branch = main
