@@ -16,3 +16,7 @@
 [submodule "ignite-challenges/ignite-ch04-refactoring"]
 	path = ignite-challenges/ignite-ch04-refactoring
 	url = git@github.com:luizwhite/ignite-refactoring-ch04.git
+[submodule "ignite-projects/02-dtmoney"]
+	path = ignite-projects/02-dtmoney
+	url = git@github.com:luizwhite/ignite-dtmoney.git
+	branch = main
