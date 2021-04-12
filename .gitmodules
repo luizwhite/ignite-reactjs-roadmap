@@ -24,3 +24,6 @@
 	path = ignite-projects/03-ignews
 	url = git@github.com:luizwhite/ignite-ignews.git
 	branch = main
+[submodule "ignite-challenges/ignite-ch05-prismic-blog"]
+	path = ignite-challenges/ignite-ch05-prismic-blog
+	url = git@github.com:luizwhite/ignite-prismic-blog-ch05.git
