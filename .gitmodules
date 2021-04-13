@@ -27,3 +27,4 @@
 [submodule "ignite-challenges/ignite-ch05-prismic-blog"]
 	path = ignite-challenges/ignite-ch05-prismic-blog
 	url = git@github.com:luizwhite/ignite-prismic-blog-ch05.git
+	branch = master
